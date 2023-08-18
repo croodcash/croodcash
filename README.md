@@ -1,7 +1,7 @@
 # Salim Hartono
 ### Hi there 👋
 
-My name is Salim and I'm currently a Backend Engineer at [Ajaib](https://www.ajaib.co.id).
+My name is Salim and I'm currently a Software Engineer at [Ajaib](https://www.ajaib.co.id).
 
 [![Salim Hartono's github stats](https://github-readme-stats.vercel.app/api?username=croodcash&show_icons=true&count_private=true&theme=tokyonight&hide=prs)](https://github.com/croodcash)
 <!--
